@@ -1,0 +1,18 @@
+.eight-ball {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .eight-ball-message {
+    text-align: center;
+    padding: 10px;
+  }
+  
